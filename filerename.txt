@@ -2,8 +2,12 @@ Welcome to GIT..............!!!!!!!!!!!!!!!!!!!
 
 
 
-Change : 1
+<<<<<<< HEAD
+Change - 1
 
 
 
-Change : 2
+Change - 2
+=======
+
+>>>>>>> idea
