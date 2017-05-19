@@ -1,9 +1,9 @@
-welcome to GIT..............!!!!!!!!!!!!!!!!!!!
+Welcome to GIT..............!!!!!!!!!!!!!!!!!!!
 
 
 
-change1
+Change 1
 
 
 
-change 2
+Change 2
